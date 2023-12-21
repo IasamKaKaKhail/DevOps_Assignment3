@@ -2,7 +2,7 @@ version: '3.8'
 services:
   backend:
     container_name: backend
-    image: myapp
+    image: app
     ports:
       - 3000:3000
     command: npx nodemon index.js
