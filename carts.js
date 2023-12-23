@@ -7,13 +7,13 @@ let activeCarts = [
     cartItems: [
       {
         title: "StrawBerries",
-        description: "200 carton blue",
+        description: "200 carton",
         cost: 200,
         imageUrl: "stawberries.jpg"
       },
       {
         title: "BlackBerries",
-        description: "300 black boxes",
+        description: "300 black",
         cost: 295,
         imageUrl: "blackberries.jpg"
       }
