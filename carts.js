@@ -7,13 +7,21 @@ let activeCarts = [
     cartItems: [
       {
         title: "StrawBerries",
+<<<<<<< HEAD
         description: "200 carton",
+=======
+        description: "5 carton red ",
+>>>>>>> 4f07ad1cd1e2a57cb0612f604c727fc66a1506db
         cost: 200,
         imageUrl: "stawberries.jpg"
       },
       {
         title: "BlackBerries",
+<<<<<<< HEAD
         description: "300 black",
+=======
+        description: "2 boxes red",
+>>>>>>> 4f07ad1cd1e2a57cb0612f604c727fc66a1506db
         cost: 295,
         imageUrl: "blackberries.jpg"
       }
