@@ -36,6 +36,6 @@ jobs:
           switches: -avzr --delete
           path: ./*
           remote_path: ~/Dev/App
-          remote_host: 54.198.154.151
+          remote_host: 34.228.116.37
           remote_user: ubuntu
           remote_key: ${{ secrets.STAGING_SERVER_KEY }}
