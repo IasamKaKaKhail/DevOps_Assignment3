@@ -38,4 +38,4 @@ jobs:
           remote_path: ~/Dev/App
           remote_host: 34.228.116.37
           remote_user: ubuntu
-          remote_key: ${{ secrets.STAGING_SERVER_KEY }}
+          remote_key: ${{ secrets.DEPLOY_KEY }}
