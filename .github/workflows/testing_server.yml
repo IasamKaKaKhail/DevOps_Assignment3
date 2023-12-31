@@ -88,4 +88,4 @@ jobs:
           remote_path: ~/Dev/App/
           remote_host: 54.164.249.42
           remote_user: ubuntu
-          remote_key: ${{ secrets.TEST_SERVER_KEY }}
+          remote_key: ${{ secrets.DEPLOY_KEY }}
